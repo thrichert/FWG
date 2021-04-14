@@ -16,28 +16,28 @@ Lets dig in !
 
 #### Definition :
 
-In the FWG regiment we considere that logistics covers :
+In the FWG-logi regiment we considere that logistics covers :
 - production of items
-- Item delievery
+- 'Item' / 'vehicule' delievery
 - Base building / base maintenance
 
 This document will refere to :
-- a crate : is a container of X number of a specific item. A crate takes 1 slot in an inventory
+- a crate : is a container of X number of a specific items. A crate takes 1 slot in an inventory
 - item when the 'object' is not in a 'crate'
 
 #### Job orders :
 
 As a FWG logi-member, you will find your asignment in discord : #logi-orders
-Their will be pinned messages that describe what as to be :
-- produce
-- deliever
+There will be pinned messages that describe what as to be :
+- produced
+- delievered
 - where and when
 
 ## RESOURCES
 
-they come in several type : **Salvage**, **Components**, **Crude Oil** & **Sulfur**
+they come in several types : **Salvage**, **Components**, **Crude Oil** & **Sulfur**
 
-They are refined in the Rafinery building as describe in the below picture
+They are refined in the Refinery building as describe in the picture below.
 
 ![Production-chart](imgs/Supply_Flow.png)
 
@@ -45,78 +45,79 @@ They are refined in the Rafinery building as describe in the below picture
 | ------------- |:-------------:					| -----:| -----:|
 | Salvage		| Basic Material (*B-mat*)			| 2:1	| 0:06
 | Salvage		| Diesel							| 10:1	| 0:12
-| Salvage		|  Explosive Materials (*E-mat*)	| 10:1	| 5:33
+| Salvage		| Explosive Materials (*E-mat*)		| 10:1	| 5:33
 | Components	| Refined Materials (*R-mat*) 		| 20:1	| 0:40
 | Crude Oil		| Petrol 							| 3:1	| 6:00
 | Sulfur		| Heavy Explosive Material 			| 20:1	| 1:00
 
 ## PRODUCTION
 
-The production of basic supplies such as : guns, ammo, shirts (use for respawn), tools ... takes place in the **Factory** or **MPF** (**M**ass **P**roduction **F**actory)
+The production of basic supplies such as : guns, ammo, solider shirts (used for respawn), tools etc... takes place in the **Factory** or **MPF** (**M**ass **P**roduction **F**actory)
 
 #### Production of vehicules
 
-To build vehicles, the player interacts with the building (by default pressing the E key). A vehicle build menu opens and the player can select which vehicle they want to build. A blueprint of the selected vehicle will spawn inside the Garage. Players can then enter the factory and build the vehicle using their hammers.
+To build vehicles, the player interacts with the building (by default pressing the E key). A vehicle build menu opens and the player can select which vehicle they want to build. A blueprint of the selected vehicle will spawn inside the Garage. You have 5 seconds to hammer it before it disapears (make sure you have ressource in your inventory)
 
 **Only one vehicle blueprint can be created at a time.**
 > in the first hours of the war, forget using it, the queue will be HUGE!
 > instead RUSH the shipyard to get one from **public stockpile** or start scrapping by foot...
 
-If you want to produce something in the rush => Factory
-If you're planning a production for - let's say - *tomorrow* use the **MPF**
-this will produce **crates** of 3 with a discout of 10% per crate !! the only downsize of MPF is its queue that can reach several hours... but **it's OK** especially if you produce **Expensive** ressources such as R-mat.
+If you want to produce something in the rush => Factory.
 
-> **Learn to anticipate your need !**
+If you're planning a production for - let's say - *tomorrow* use the **MPF** this will produce **crates** of 3 with a discout of 10% per crate!!
+The only downside of MPF is its queue that can reach several hours... but **it's OK** especially if you produce **Expensive** ressources such as R-mat.
 
-early game advise :
-> start as soon as possible the production of trucks (Dunne Transport / Dunne Fuel in the MPF) => couple of hour after you will get 3x per crate !
+> **Learn to anticipate your needs!**
+
+Early Game Advise :
+
+> Start as soon as possible the production of trucks (Dunne Transport / Dunne Fuel in the MPF) => couple of hours after you will get 3x per crate!
 
 ## MOVING THINGS AROUND
 
-#### early game :
-you won't have other choice than using a **Dunne Transport** (cost : 100Bmat, produce in a Garage)
+#### Early Game :
+You won't have another choice other than using a **Dunne Transport** (cost : 100Bmat, produced in a Garage)
 
-#### Once loadLugger are tech'ed
+#### Once LoadLuggers are tech'ed
 
-they are use only to transport RAW material (salvage / component ...)
-Used them when you go farming. But then you will need a Dunne transport to get your refined material (Bmat, Fuel etc...)
-advice:
-> Grap some petrol (not diesel), take a loadLugger and camp a component mine (feed the mine with petrol), you will get 6 component / sec instead of 2/sec with diesel
+They are used only to transport RAW materials (salvage / component etc...), use them when you go farming.
+But then you will need a Dunne Transport to get your refined material (Bmat, Fuel etc...)
 
-#### late game
+Advice:
+> Grab some Petrol (not Diesel), take a LoadLugger and camp a component mine (feed the mine with petrol), you will get 6 component / sec instead of 2/sec with diesel
 
-use an harvester (120 R-mat) ! or a sledghammer if you're poor...
+#### Late Game
 
-#### RESSOURCE AND SHIPPING CONTAINERS
+Use a Harvester (120 R-mat)! Or a Sledgehammer if you're poor...
 
-Ressource/Shipping containers are produce on the **Construction Yard**
+#### RESOURCE AND SHIPPING CONTAINERS
 
-they are used to carry a large quantity of items:
-- *RESSOURCE CONTAINER* for Raw material, can contains up to 5000 items
-- *SHIPPING CONTAINTER* for Refined material (**CRATES** of items), can contains up to 40x crates
+Resource/Shipping containers are produce on the **Construction Yard**,
 
-to put things inside of it :
-their are two 'places' where items are stored inside a container
+They are used to carry a large quantities of items:
+- *RESOURCE CONTAINER* for Raw Material, can contains up to 5,000 items,
+- *SHIPPING CONTAINTER* for Refined Material (**CRATES** of items), can contained up to 40x crates,
+
+To put things inside of it :
+There are two 'places' where items are stored inside a container,
 - its **'inventory'** : for temporary storage
-- its **'Stockpile'** : <= where you store for 'long' term and be able to 'package' the container. To put something inside the stockpile you have to **Submit it into** the stockpile.
+- its **'Stockpile'** : <= where you store for 'long' term and will be able to 'package' the container. To put something inside the stockpile you have to **Submit it into** the stockpile.
 
-in order to move / carry a container, it has to be 'packed'.
-once packed a crane can move it around with a **crane** or a **flatbed**
+In order to move / carry a container, it has to be 'packed'.
+Once packed, they can be moved around with with a **Crane** or a **Flatbed**.
 
-- how to pack:
-1. inventory MUST be empty : if not submit the items to the container stockpile
-2. pack it !
+- How to pack:
+1. Inventory MUST be empty : if not, submit the items to the container's stockpile by right clicking, then select 'submit'
+2. Pack it !
 
 ![Pack a container](imgs/ressourceContainer-packing.jpg)
 
-once pack you can use a crane to move it.
-
 ## STOCKPILE
 
-stockpile are the main storage location in FOXHOLE.
-you submit or retrieve items from stockpiles.
-Their is **PUBLIC** or **PRIVATE** stockpiles.
-Private stockpile can be created in SEAPORT or STORAGE location.
+Stockpile are the main storage location in FOXHOLE.
+You submit or retrieve items from stockpiles.
+There are **PUBLIC** or **PRIVATE** stockpiles.
+Private stockpile can be created at SEAPORT or STORAGE location.
 
 ![Seaport stockpile](imgs/seaport.jpg)
 
@@ -162,6 +163,7 @@ only vehicule can be store as 'vehicule' without to be 'crated'
 2. click on the item of your choice
 
 - Pack / unpack item (as crate)
+
 you can create crate or retrieve your items from a create by right-click on an item in your inventory
 
 ![pack-unpack items](imgs/seaport-stockpile-packed.jpg)
