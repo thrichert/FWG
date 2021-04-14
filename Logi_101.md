@@ -106,6 +106,7 @@ once packed a crane can move it around with a **crane** or a **flatbed**
 - how to pack:
 1. inventory MUST be empty : if not submit the items to the container stockpile
 2. pack it !
+
 ![Pack a container](imgs/ressourceContainer-packing.jpg)
 
 once pack you can use a crane to move it.
@@ -122,6 +123,7 @@ Private stockpile can be created in SEAPORT or STORAGE location.
 We strongly advise you to use/create **PRIVATE** stockpile to avoid random players to take your precious production. LOGI members of FWG will share their access code to the rest of the regiment so that we can share our ressources / items between us.
 
 - how to create a **private** stockpile :
+
 ![create stockpile](imgs/seaport-create-stockpile.jpg)
 
 > name it : FWG
@@ -130,9 +132,17 @@ We strongly advise you to use/create **PRIVATE** stockpile to avoid random playe
 
 - how to access a stockpile :
 enter the code to get access to a private stockpile
+
 ![access a stockpile](imgs/seaport-access-stockpile.jpg)
+
 then select the stockpile :
+
 ![access a stockpile](imgs/seaport-stockpile-select.jpg)
+
+
+send this to your captain / logi-manager to prouve you've read this document
+
+[101FWG-LOGI101]
 
 ## FAQ / how to :
 - submit an item :
@@ -144,6 +154,7 @@ only vehicule can be store as 'vehicule' without to be 'crated'
 - submit a vehicule
 1. Select the stockpile where you want to submit your vehicule
 2. submit it
+
 ![submit vehicule](imgs/seaport-stockpile-submit-vehicule.jpg)
 
 - retrieve an item
@@ -152,6 +163,7 @@ only vehicule can be store as 'vehicule' without to be 'crated'
 
 - Pack / unpack item (as crate)
 you can create crate or retrieve your items from a create by right-click on an item in your inventory
+
 ![pack-unpack items](imgs/seaport-stockpile-packed.jpg)
 
 - Why use crate when moving stuff ?
@@ -160,8 +172,7 @@ If for some reason you get kill, or your vehicule is destroy, our enemy wont be 
 You don't want to ease those bastard collies partisant, right ?!
 
 - Why should I NEVER use my personnal inventory ?!
+
 !!! it might happen from times to times that you get a **server connection timeout** in this case their is a highly probability that what you have on you will be LOST !!!
 **THUS** it is strongly recommend to store your item into locked-vehicule that will stays on the map and you will be able to get it back. otherwise it is lost forever ... I guess you don't want to lose a precious prototype, isn't ?
 
-send this to your captain / logi-manager to prouve you've read this document
-[101FWG-LOGI101]
