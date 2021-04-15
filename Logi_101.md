@@ -173,6 +173,7 @@ B. Deposit the packed container on the plateform to submit it
 ![Move the container](imgs/seaport-stockpile-submit-containers-2.jpg)
 
 C-1. Select the stockpile
+
 C-2. Submit it
 
 ![Submit the container](imgs/seaport-stockpile-submit-containers-3.jpg)
