@@ -112,13 +112,16 @@ They are used to carry a large quantities of items:
 To put things inside of it :
 There are two 'places' where items are stored inside a container,
 - its **'inventory'** : for temporary storage
-- its **'Stockpile'** : <= where you store for 'long' term and will be able to 'package' the container. To put something inside the stockpile you have to **Submit it into** the stockpile.
+- its **'Stockpile'** : where you store for *'long' term* and will be able to 'package' the container.
+To put something inside the stockpile you have to **Submit it into** the stockpile.
+
+![details about container](imgs/container-detail.jpg)
 
 In order to move / carry a container, it has to be 'packed'.
 Once packed, they can be moved around with with a **Crane** or a **Flatbed**.
 
 - How to pack:
-1. Inventory MUST be empty : if not, submit the items to the container's stockpile by right clicking, then select 'submit'
+1. Inventory **MUST be empty** : if not, submit the items to the container's stockpile by right clicking, then select **'submit'**
 2. Pack it !
 
 ![Pack a container](imgs/ressourceContainer-packing.jpg)
@@ -150,15 +153,16 @@ LOGI members of FWG will share their access code to the rest of the regiment so 
 > pin your post
 
 - How to access a stockpile:
-enter the code to get access to a private stockpile
+
+Enter the code to get access to a private stockpile
 
 ![access a stockpile](imgs/seaport-access-stockpile.jpg)
 
-then select the stockpile:
+Then select the stockpile
 
 ![access a stockpile](imgs/seaport-stockpile-select.jpg)
 
-- how to submit containers (3 steps)
+- How to submit containers (3 steps)
 
 A. Operate the crane to deposit the container on the plateform
 
@@ -168,41 +172,45 @@ B. Deposit the packed container on the plateform to submit it
 
 ![Move the container](imgs/seaport-stockpile-submit-containers-2.jpg)
 
-C-1. select the stockpile
-C-2. submit it
+C-1. Select the stockpile
+C-2. Submit it
 
 ![Submit the container](imgs/seaport-stockpile-submit-containers-3.jpg)
 
 - How to submit a heavy items: (works for stockpile but also artilery piece / mortar etc...)
 
-same principle but click on: "Submit large item"
+Same principle but click on: **"Submit large item"**
 
 ![Submit the container](imgs/seaport-stockpile-submit-largeItem.jpg)
 
-send this to your captain / logi-manager to prouve you've read this document :
+Send this to your captain / logi-manager to prouve you've read this document :
 
 [101FWG-LOGI101]
 
 ## FAQ / how to :
+
 - submit an item :
+
 every item store in a **SEAPORT** stockpile must be in CRATE(s)
 only vehicule can be store as 'vehicule' without to be 'crated'
 
 **public** items stay public, they **can not** be store in private stockpile
 
 - submit a vehicule
+
 1. Select the stockpile where you want to submit your vehicule
 2. submit it
 
 ![submit vehicule](imgs/seaport-stockpile-submit-vehicule.jpg)
 
 - retrieve an item
+
 1. check that nothing is on the plateform
 2. click on the item of your choice
 
 - Pack / unpack item (as crate)
 
-you can create crate or retrieve your items from a create by right-click on an item in your inventory
+You can create crate or retrieve your items from a crate by right-click on an item in your inventory
 
 ![pack-unpack items](imgs/seaport-stockpile-packed.jpg)
 
