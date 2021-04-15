@@ -4,13 +4,17 @@
 
 Some inspiring quotes about logistics and its vital importance.
 
-> *"The line between disorder and order lies in logistics…"* - Sun Tzu
+> *"The line between disorder and order lies in logistics…"*
+> - Sun Tzu
 
-> *"Gentlemen, the officer who doesn't know his communications and supply as well as his tactics is totally useless."* - Gen. George S. Patton, USA
+> *"Gentlemen, the officer who doesn't know his communications and supply as well as his tactics is totally useless."*
+> - Gen. George S. Patton, USA
 
-> *"Forget logistics, you lose."* - Lt. Gen. Fredrick Franks, USA, 7th Corps Commander, Desert Storm
+> *"Forget logistics, you lose."*
+> - Lt. Gen. Fredrick Franks, USA, 7th Corps Commander, Desert Storm
 
-> *"Leaders win through logistics. Vision, sure. Strategy, yes. But when you go to war, you need to have both toilet paper and bullets at the right place at the right time. In other words, you must win through superior logistics."* - Tom Peters - Rule #3: Leadership Is Confusing As Hell, Fast Company, March 2001
+> *"Leaders win through logistics. Vision, sure. Strategy, yes. But when you go to war, you need to have both toilet paper and bullets at the right place at the right time. In other words, you must win through superior logistics."*
+> - Tom Peters - Rule #3: Leadership Is Confusing As Hell, Fast Company, March 2001
 
 Lets dig in !
 
@@ -75,10 +79,17 @@ Early Game Advise :
 
 ## MOVING THINGS AROUND
 
-#### Early Game :
+#### Refuel Your Vehicule:
+
+there are two ways to refuel a vehicule (manual / automated):
+- You get a can and you do it by 'hand'. Equip the Diesel Fuel Can and click on the vehicule when your are next to it.
+- You press the refuel action button when your are near a Fuel-truck. A connection will be establish between your vehicule and the Fuel Truck, refueling it automaticaly.
+
+#### Early Game:
+
 You won't have another choice other than using a **Dunne Transport** (cost : 100Bmat, produced in a Garage)
 
-#### Once LoadLuggers are tech'ed
+#### Once LoadLuggers are tech'ed:
 
 They are used only to transport RAW materials (salvage / component etc...), use them when you go farming.
 But then you will need a Dunne Transport to get your refined material (Bmat, Fuel etc...)
@@ -114,16 +125,23 @@ Once packed, they can be moved around with with a **Crane** or a **Flatbed**.
 
 ## STOCKPILE
 
-Stockpile are the main storage location in FOXHOLE.
+Stockpiles are the main storage location in FOXHOLE.
 You submit or retrieve items from stockpiles.
 There are **PUBLIC** or **PRIVATE** stockpiles.
 Private stockpile can be created at SEAPORT or STORAGE location.
+Privates access private stockpiles using a code of several digits.
+Those codes are given as 'Pinned' messages in discord : #logi-orders
+
+Private Stockpiles have a lifespan of 2 days.
+Everytime you PUT something inside of it, it will restart this timer.
+Otherwise the content of the stockpiles goes into public.
 
 ![Seaport stockpile](imgs/seaport.jpg)
 
-We strongly advise you to use/create **PRIVATE** stockpile to avoid random players to take your precious production. LOGI members of FWG will share their access code to the rest of the regiment so that we can share our ressources / items between us.
+We strongly advise you to use/create **PRIVATE** stockpile to avoid random players to take your precious production.
+LOGI members of FWG will share their access code to the rest of the regiment so that we can share our ressources / items between us.
 
-- how to create a **private** stockpile :
+- How to create a **private** stockpile:
 
 ![create stockpile](imgs/seaport-create-stockpile.jpg)
 
@@ -131,17 +149,37 @@ We strongly advise you to use/create **PRIVATE** stockpile to avoid random playe
 > share the access code in discord : #logi-orders with the location of the stockpile
 > pin your post
 
-- how to access a stockpile :
+- How to access a stockpile:
 enter the code to get access to a private stockpile
 
 ![access a stockpile](imgs/seaport-access-stockpile.jpg)
 
-then select the stockpile :
+then select the stockpile:
 
 ![access a stockpile](imgs/seaport-stockpile-select.jpg)
 
+- how to submit containers (3 steps)
 
-send this to your captain / logi-manager to prouve you've read this document
+A. Operate the crane to deposit the container on the plateform
+
+![Use the crane](imgs/seaport-stockpile-submit-containers.jpg)
+
+B. Deposit the packed container on the plateform to submit it
+
+![Move the container](imgs/seaport-stockpile-submit-containers-2.jpg)
+
+C-1. select the stockpile
+C-2. submit it
+
+![Submit the container](imgs/seaport-stockpile-submit-containers-3.jpg)
+
+- How to submit a heavy items: (works for stockpile but also artilery piece / mortar etc...)
+
+same principle but click on: "Submit large item"
+
+![Submit the container](imgs/seaport-stockpile-submit-largeItem.jpg)
+
+send this to your captain / logi-manager to prouve you've read this document :
 
 [101FWG-LOGI101]
 
@@ -173,8 +211,10 @@ you can create crate or retrieve your items from a create by right-click on an i
 If for some reason you get kill, or your vehicule is destroy, our enemy wont be able to use them without having to submit it to a stockpile
 You don't want to ease those bastard collies partisant, right ?!
 
-- Why should I NEVER use my personnal inventory ?!
+- Why should I NEVER use my personnal inventory when I carry a **valuable** items (such as prototypes)?!
 
-!!! it might happen from times to times that you get a **server connection timeout** in this case their is a highly probability that what you have on you will be LOST !!!
-**THUS** it is strongly recommend to store your item into locked-vehicule that will stays on the map and you will be able to get it back. otherwise it is lost forever ... I guess you don't want to lose a precious prototype, isn't ?
+It might happen from times to times that you get a **server connection timeout** in this case there is a highly probability that what you have on you will be LOST !!!
+Thus, it is strongly recommend to store your valuable item into a locked-vehicule that will stays on the map,  because you will be able to get it back.
+Otherwise it is lost forever...
+I guess you don't want to lose a precious prototype, isn't ?
 
