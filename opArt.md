@@ -76,7 +76,7 @@ This is the boat formation we will have to respect at all time.
 > Fill free to ZigZag 100m to 200m in front and on the side of the convoy
 > **IF Ennemies are detected, we will send BattleBarge to intercepts BEFORE they see the convoy**
 
-![boats-formation](!imgs-opArt/boats-formation.jpg)
+![boats-formation](imgs-opArt/boats-formation.jpg)
 
 ### LANDING
 
@@ -91,7 +91,8 @@ First Objectives : Detect BB / WT / FoxHole, along the road and in-land until it
 2. Cranes / Flak Cannon:
 
 Crane will deposit the Flak according to this pattern:
-![inital Flak deployment](!imgs-opArt/First-FlakDeploy.jpg)
+
+![inital Flak deployment](imgs-opArt/First-FlakDeploy.jpg)
 
 Meanwhile 4 designated marines get the ammo (2 clips of 14.5mm) from the Barges that carry the Flak, unpacked the Flak and jump on it ASAP
 Once cranes unload the flaks
@@ -102,13 +103,15 @@ The forth crane deployed near the 'trucks'-freighter and unload the truck, + 1 M
 
 While Freighter are unloaded:
 - 5x Marines will dig foxhole around the area and secure it. **AGAIN ! DO NOT PUSH ANY FURTHER**
-- cv go straight EAST with marines to establish a respwn point :
-![Establish Deployment](!imgs-opArt/First-BB_ENCAMP_TBD.jpg)
+- cv go straight EAST with marines to establish a respwn point:
+
+![Establish Deployment](imgs-opArt/First-BB_ENCAMP_TBD.jpg)
 
 3. Once position is secured (tbd= BB built / Base encampment):
 
 Crane will move the artillery piece further East as the picture below (**black-stars**):
-![second deployment phase](!imgs-opArt/Second-PhaseDeploy.jpg)
+
+![second deployment phase](imgs-opArt/Second-PhaseDeploy.jpg)
 
 Once art. pieces are deposit:
 - marines ON FLACK :  **UNLOAD THE FLACK** THEN packed the Flak
